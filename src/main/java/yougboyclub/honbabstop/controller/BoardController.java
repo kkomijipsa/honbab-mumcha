@@ -111,7 +111,7 @@ public class BoardController {
     }
 
     //모집글 삭제
-    //외래키 제약 조건 때문에 삭제 안돼ㅠ
+    //외래키 제약 조건 때문에 삭제 안됨
     @DeleteMapping("/boardDetails/delete/{id}")
     public ResponseEntity<ResponseBoardDto> deleteById(@PathVariable Long id, @RequestHeader("User-Id") Long userId) {
         // 게시글 존재 확인 및 권한 확인
