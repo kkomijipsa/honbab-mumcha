@@ -5,8 +5,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:8a8a8a,100:0c2340&height=180&section=header&text=혼밥멈춰!!%20&fontSize=90&)
 
 <br>
-
-# Sesac 🌱 Final Project
 > Meet Together Eat Together!
 
 ## 멤버
@@ -177,10 +175,7 @@ https://github.com/youngboyclub/honbab-mumcha/assets/112153004/934ca491-0fc8-4d5
 <br>
 
 ## 🚀 정보
-- 청년취업사관학교 새싹 영등포 SW캠퍼스<br>
-  - 백엔드 구축을 위한 클라우드 기술 활용 개발자 과정(JAVA 기반)
-
-- Copyright ⓒ 이로운, 김완, 민동찬, 류수환, 김태호 (새싹 백엔드 스쿨 영보이 클럽팀)
+- Copyright ⓒ 이로운, 김완, 민동찬, 류수환, 김태호 (영보이 클럽)
 
 - contact : dev.rowoon@gmail.com
 <!--이름 – [@트위터 주소](https://twitter.com/dbader_org) – 이메일주소@example.com
